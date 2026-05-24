@@ -19,7 +19,7 @@ This dashboard enables users to:
 
 # 🖼 Dashboard Screenshot
 
-![Air Quality Dashboard](Images/dashboard_preview.png)
+![Air Quality Dashboard](dashboard_preview.png)
 
 > Place your dashboard screenshot inside the `Images` folder and rename it as:
 >
