@@ -21,10 +21,6 @@ This dashboard enables users to:
 
 ![Air Quality Dashboard](dashboard_preview.png)
 
-> Place your dashboard screenshot inside the `Images` folder and rename it as:
->
-> `dashboard_preview.png`
-
 ---
 
 # 📊 Dashboard Preview
@@ -237,16 +233,8 @@ Air-Quality-Monitoring-Dashboard/
 
 # 👨‍💻 Author
 
-## Champ
+## Priyanshu Singh Bisht
 Power BI & Data Analytics Project
 
 ---
 
-# 📄 License
-
-This project is created for:
-- Educational Purposes
-- Environmental Analysis
-- Data Visualization Practice
-
----
