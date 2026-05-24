@@ -17,13 +17,11 @@ This dashboard enables users to:
 
 ---
 
-# 🖼 Dashboard Screenshot
+# 📊 Dashboard Preview
 
 ![Air Quality Dashboard](dashboard_preview.png)
 
 ---
-
-# 📊 Dashboard Preview
 
 ## Main Dashboard Features
 - KPI Cards
